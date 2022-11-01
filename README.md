@@ -10,4 +10,4 @@ Libraries to install:
 pip install pytest
 
 Run tests:
-Terminal, pyetest [name of the file containing tests] enter
+Terminal, pytest [name of the file containing tests] enter
